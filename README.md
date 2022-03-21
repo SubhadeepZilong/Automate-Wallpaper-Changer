@@ -8,7 +8,7 @@ Automate Wallpaper Changer Python Script
 
 ```
 - Add the wallpapers in "image" folder 
-- Set the update interval (in seconds)
+- Set the update interval (in seconds) represented by time.sleep(1) where '1' denotes 1 second
 - Run the python file "main.py"
 - "main.exe" is a shortcut to run the code for existing images at 1 sec interval
 
